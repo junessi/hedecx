@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+import sys
+
+if len(sys.argv) == 2:
+    print(int(sys.argv[1], 16))
+else:
+    print("hex2dec [hex value]")

@@ -2,4 +2,3 @@
 
 Available languages:
 * python
-* bash
