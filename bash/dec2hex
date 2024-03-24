@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [[ $# == 1 ]]; then
+    printf "%x\n" $1
+else
+    echo "dec2hex [decimal value]"
+fi
